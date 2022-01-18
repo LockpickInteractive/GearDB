@@ -6,4 +6,4 @@ local LoadLibrary = InsertService:LoadAsset(8533315553)
 LoadLibrary.Parent = game.ReplicatedStorage
 print("GearDB Auto Install complete")
 
--- see, it's simple. you could've just installed the rbxm lol
+-- see, it's simple. you could've just installed the modelfile from the github description
