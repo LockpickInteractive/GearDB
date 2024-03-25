@@ -1,4 +1,4 @@
-# ![GearDB Logo](https://github.com/StarLandRBLX/GearDB/raw/main/GearDB.png)
+# ![GearDB Logo](https://github.com/StarLandRBLX/GearDB/raw/main/GearDBNew.png)
 A repository filled with Rescripted versions of roblox gears forgotten through the years
 # Notice
 With items like the boomboxes, most if not all of them use the exact same code, so most of them are copied from the golden boombox, which code still works.
